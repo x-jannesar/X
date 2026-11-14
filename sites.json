@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "id": "sample-one",
+      "domains": [
+        "site1.example.com"
+      ],
+      "title": "Site One",
+      "subtitle": "Independent site, shared infrastructure",
+      "description": "A demonstration of domain-based site routing."
+    },
+    {
+      "id": "sample-two",
+      "domains": [
+        "site2.example.com"
+      ],
+      "title": "Site Two",
+      "subtitle": "A second website",
+      "description": "Different content served by the same Cloudflare Worker."
+    }
+  ]
+}
